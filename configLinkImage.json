@@ -243,6 +243,59 @@
                         "name": "WP 8"
                     }
                 ]
+            },
+            {
+                "name": "Dragon",
+                "wallpaper": [
+                    {
+                        "author": "By Blah Blah Blah",
+                        "url": "https://farm4.staticflickr.com/3685/13825496523_5450c362e4_o.png",
+                        "thumbUrl": "https://farm4.staticflickr.com/3685/13825496523_5450c362e4_o.png",
+                        "name": "WP 1"
+                    },
+                    {
+                        "author": "By Blah Blah Blah",
+                        "url": "https://farm8.staticflickr.com/7359/13825464275_bab2c6e32e_o.jpg",
+                        "thumbUrl": "https://farm8.staticflickr.com/7359/13825464275_bab2c6e32e_o.jpg",
+                        "name": "WP 2"
+                    },
+                    {
+                        "author": "By Blah Blah Blah",
+                        "url": "https://farm8.staticflickr.com/7076/13825818724_f87541c32f_o.jpg",
+                        "thumbUrl": "https://farm8.staticflickr.com/7076/13825818724_f87541c32f_o.jpg",
+                        "name": "WP 3"
+                    },
+                    {
+                        "author": "By Blah Blah Blah",
+                        "url": "https://farm6.staticflickr.com/5217/13825467265_b3a81f2b7a_o.jpg",
+                        "thumbUrl": "https://farm6.staticflickr.com/5217/13825467265_b3a81f2b7a_o.jpg",
+                        "name": "WP 4"
+                    },
+                    {
+                        "author": "By Blah Blah Blah",
+                        "url": "https://farm8.staticflickr.com/7056/13825496853_bde4cdb49b_o.jpg",
+                        "thumbUrl": "https://farm8.staticflickr.com/7056/13825496853_bde4cdb49b_o.jpg",
+                        "name": "WP 5"
+                    },
+                    {
+                        "author": "By Blah Blah Blah",
+                        "url": "https://farm8.staticflickr.com/7402/13825497253_0f5b2cf2ef_o.jpg",
+                        "thumbUrl": "https://farm8.staticflickr.com/7402/13825497253_0f5b2cf2ef_o.jpg",
+                        "name": "WP 6"
+                    },
+                    {
+                        "author": "By Blah Blah Blah",
+                        "url": "https://farm8.staticflickr.com/7106/13825819194_8a7bc1fbb8_o.jpg",
+                        "thumbUrl": "https://farm8.staticflickr.com/7106/13825819194_8a7bc1fbb8_o.jpg",
+                        "name": "WP 7"
+                    },
+                    {
+                        "author": "By Blah Blah Blah",
+                        "url": "https://farm4.staticflickr.com/3714/13825819474_6f2ba91a58_o.jpg",
+                        "thumbUrl": "https://farm4.staticflickr.com/3714/13825819474_6f2ba91a58_o.jpg",
+                        "name": "WP 8"
+                    }
+                ]
             }
         ]
     }
